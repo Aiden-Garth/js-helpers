@@ -1,0 +1,23 @@
+{
+  "name": "@aiden-garth/js-helpers",
+  "version": "0.1.0",
+  "description": "A private NPM package created on 19-10-2018",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Aiden-Garth/js-helpers.git"
+  },
+  "keywords": [
+    "Private",
+    "Truecoder-Ltd"
+  ],
+  "author": "Aiden Garth <truecoder.business@outlook.com> (https://github.com/Aiden-Garth)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Aiden-Garth/js-helpers/issues"
+  },
+  "homepage": "https://github.com/Aiden-Garth/js-helpers#readme"
+}
