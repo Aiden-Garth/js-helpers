@@ -1,4 +1,10 @@
-# Readme for the NPM package @aiden-garth/js-helpers
+# Unfortuanally, this project has been stopped as of __29/10/2018__
+
+## Reason:
+
+### This project is useless
+
+## Readme for the NPM package @aiden-garth/js-helpers
 
 > Unfortunately this NPM package is still in development, If you want to test this, please [E-Mail us](mailto:truecoder.business@outlook.com)
 
